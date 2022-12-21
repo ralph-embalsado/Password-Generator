@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    background-color: #ECFDF5;
+}
+
+
+main h1 {
+    width: 354px;
+    height: 80px;
+    font-family: Karla; 
+    font-weight: bolder;
+    font-size: 40px;
+    margin: 115px 114px 10px 52px;
+}
+
+span {
+    color: #10B981;
+}
+
+main p {
+    margin: 20px 126px 30px 52px;
+    font-family: Inter;
+    color: #6B7280;
+}
+
+main button {
+    border: none;
+    padding: 9px 17px 9px 15px;
+    margin: 30px 307px 35px 52px;
+    border-radius: 6px;
+    background-color: #10B981;
+    color: white;
+    width: 191px;
+    height: 42px;
+}
+
+
+.password-box {
+    border-top: solid 2px #D5D4D8;
+    margin-left: 52px;
+    margin-right: 52px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.password-box p {
+    width: 200px;
+    height: 39px;
+    background-color: #273549;
+    border-radius: 6px;
+    margin-top: 30px;
+    color: #10B981;
+    box-sizing: border-box;
+    padding: 10px 5px 10px 25px;
+    font-family: Karla; 
+}
